@@ -1,0 +1,4 @@
+flask 
+grpcio-tools ~= 1.30
+Jinja2 
+pytest
